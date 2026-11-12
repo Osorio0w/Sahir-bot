@@ -1,0 +1,27 @@
+{
+  "currency": "USD",
+  "note": "Datos de ejemplo genéricos. Se reemplazan por los de la API del restaurante.",
+  "categories": [
+    { "id": "entradas", "name": "Entradas", "items": [
+      { "id": "hummus", "name": "Hummus", "description": "Crema de garbanzos con tahini", "price": 5.0 },
+      { "id": "baba-ghanoush", "name": "Baba ghanoush", "description": "Puré de berenjena ahumada", "price": 5.5 },
+      { "id": "tabule", "name": "Tabule", "description": "Ensalada de perejil y trigo", "price": 4.5 },
+      { "id": "kibbe", "name": "Kibbe frito (3 unidades)", "description": "Croquetas de trigo y carne", "price": 6.0 }
+    ]},
+    { "id": "fuertes", "name": "Platos fuertes", "items": [
+      { "id": "shawarma-pollo", "name": "Shawarma de pollo", "description": "Con salsa de ajo", "price": 8.0 },
+      { "id": "shish-taouk", "name": "Shish taouk", "description": "Brochetas de pollo marinado", "price": 11.0 },
+      { "id": "kafta", "name": "Kafta a la parrilla", "description": "Carne molida especiada", "price": 11.5 },
+      { "id": "arroz-pollo", "name": "Arroz con pollo y almendras", "description": "", "price": 9.5 },
+      { "id": "falafel", "name": "Plato de falafel", "description": "", "price": 8.5 }
+    ]},
+    { "id": "postres", "name": "Postres", "items": [
+      { "id": "baklava", "name": "Baklava (3 unidades)", "description": "", "price": 4.5 },
+      { "id": "mamoul", "name": "Mamoul", "description": "", "price": 3.5 }
+    ]},
+    { "id": "bebidas", "name": "Bebidas", "items": [
+      { "id": "limonada-menta", "name": "Limonada con menta", "description": "", "price": 3.0 },
+      { "id": "te-arabe", "name": "Té árabe", "description": "", "price": 2.5 }
+    ]}
+  ]
+}

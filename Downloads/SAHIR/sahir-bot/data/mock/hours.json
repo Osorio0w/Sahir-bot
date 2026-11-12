@@ -1,0 +1,7 @@
+{
+  "note": "DATOS DE EJEMPLO. Se reemplazan por los horarios reales que entregue la base de datos del restaurante.",
+  "timezone": "America/Caracas",
+  "weekly": [
+    { "days": [0, 1, 2, 3, 4, 5, 6], "open": "14:00", "close": "00:00" }
+  ]
+}

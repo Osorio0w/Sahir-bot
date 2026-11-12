@@ -1,0 +1,19 @@
+{
+  "name": "sahir-bot",
+  "version": "0.1.0",
+  "description": "Chatbot de WhatsApp para Sahir Resto Bar",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "simulate": "node scripts/simulate.js",
+    "check": "node scripts/check.js",
+    "migrate": "node scripts/migrate.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "pg": "^8.11.3",
+    "express": "^4.19.2"
+  },
+  "engines": { "node": ">=18" }
+}
